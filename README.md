@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Akshar
-#### I am a 1st year college student
-![I am a 1st year college student]
+#### I am a 2nd year college student
+![I am a 2nd year college student]
 
 I am an ambitious coder trying to learn new things
 
-Skills: PYTHON / MYSQL/ HTML 
+Skills: PYTHON / MYSQL/ HTML / MACHINE LEARNING 
 
 - 🌱 I’m currently learning Machine Learning  
 - 👯 I’m looking to collaborate on future projects 
