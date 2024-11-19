@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Akshar
 #### I am a 2nd year college student
-![I am a 2nd year college student]
 
 I am an ambitious coder trying to learn new things
 
@@ -9,9 +8,9 @@ Skills: PYTHON / MYSQL/ HTML / MACHINE LEARNING
 - 🌱 I’m currently learning Machine Learning  
 - 👯 I’m looking to collaborate on future projects 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshar-grover-016081294)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ACO3110)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/akshar-grover-016081294/)  
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ACO3110)
 
 
 <!---
