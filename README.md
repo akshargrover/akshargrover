@@ -1,34 +1,45 @@
-### Hi there 👋, my name is Akshar
-#### I am a 2nd year college student
+# Hi there, I'm Akshar Grover! 👋
 
-I am an ambitious coder trying to learn new things
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects, web development, and artificial intelligence. Here you'll find a collection of my projects, contributions, and some of my favorite technologies.
 
-Skills: PYTHON / MYSQL/ HTML / MACHINE LEARNING 
+## 🚀 About Me
 
-- 🌱 I’m currently learning Machine Learning  
-- 👯 I’m looking to collaborate on future projects 
+- 🌱 I’m currently learning **Machine Learning**, **Deep Learning** and **Data Science**.
+- 📫 How to reach me: [akshargrover@gmail.com](mailto:akshargrover@gmail.com)
+- 💬 Ask me about **Python**, and **Web Development**.
+- ⚡ Fun fact: I love  playing the guitar!
 
-## Connect with me:
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mridulchdry)--->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshargrover/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akshargrover)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ACO3110)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshargrover@gmail.com)
+## 🛠️ Technologies & Tools
 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-009688?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge&logo=seaborn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 📈 GitHub Stats
 
+![Akshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshargrover&show_icons=true&theme=radical)
+
+## 💻 Projects
+
+Here are a few projects I've been working on recently:
+
+- [Project 1](https://github.com/akshargrover/Book-Recommendation-System) - A book recommendation system using the KNN algorithm. It takes the user's input and recommends the books based on the user's input. It has been trained on a dataset of more than 10000 books.
+- [Project 2](https://github.com/akshargrover/Spam-Mail-Classifier) - This project is a Spam Mail Classifier designed to categorize email messages as either Spam or Not Spam using Logistic Regression.
+- [Project 3](https://github.com/akshargrover/Iris_Flower-CLassifier) - This project will classify iris flowers based on the given inputs into their respectives species The algorithm is implemented from using Sequential neural network with categorical cross-entropy as the accuracy metric
+
+## 🌐 Connect with Me
+
+- LinkedIn: [linkedin.com/in/akshargrover](https://www.linkedin.com/in/akshargrover)
+- Twitter: [twitter.com/akshargrover](https://twitter.com/akshargrover)
+
+<!--
+- Personal Website/Blog: [akshargrover.com](https://akshargrover.com)
+--->
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
 <!--
 
 ## 📊 GitHub Stats
