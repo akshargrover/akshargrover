@@ -24,13 +24,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshargrover&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
-## 💻 Projects
+## 💻 Top 3 Projects
 
 Here are a few projects I've been working on recently:
 
-- [Project 1](https://github.com/akshargrover/Book-Recommendation-System) - A book recommendation system using the KNN algorithm. It takes the user's input and recommends the books based on the user's input. It has been trained on a dataset of more than 10000 books.
-- [Project 2](https://github.com/akshargrover/Spam-Mail-Classifier) - This project is a Spam Mail Classifier designed to categorize email messages as either Spam or Not Spam using Logistic Regression.
-- [Project 3](https://github.com/akshargrover/Iris_Flower-CLassifier) - This project will classify iris flowers based on the given inputs into their respectives species The algorithm is implemented from using Sequential neural network with categorical cross-entropy as the accuracy metric
+- [Project 1](https://github.com/akshargrover/Calmbot) - A compassionate mental health chatbot that uses Retrieval-Augmented Generation (RAG) to provide supportive, empathetic, and informative responses based on curated mental health documents.
+- [Project 2](https://github.com/akshargrover/Book-Recommendation-System) - A book recommendation system using the KNN algorithm. It takes the user's input and recommends the books based on the user's input. It has been trained on a dataset of more than 10000 books.
+- [Project 3](https://github.com/akshargrover/Spam-Mail-Classifier) - This project is a Spam Mail Classifier designed to categorize email messages as either Spam or Not Spam using Logistic Regression.
 
 ## 🌐 Connect with Me
 
