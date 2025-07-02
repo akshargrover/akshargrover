@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
+
 ## 📈 GitHub Stats
 
 ![Akshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshargrover&show_icons=true&theme=radical)
@@ -40,6 +41,9 @@ Here are a few projects I've been working on recently:
 <!--
 - Personal Website/Blog: [akshargrover.com](https://akshargrover.com)
 --->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akshargrover&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
 <!--
