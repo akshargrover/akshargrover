@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ![Akshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshargrover&show_icons=true&theme=radical)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshargrover&theme=dark&hide_border=false)<br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshargrover&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
 ## 💻 Top 3 Projects
