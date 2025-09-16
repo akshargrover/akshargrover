@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Machine Learning**, **Deep Learning** and **Data Science**.
+- 🌱 I’m currently learning **Deep Learning** and **Data Science**.
 - 📫 How to reach me: [akshargrover@gmail.com](mailto:akshargrover@gmail.com)
-- 💬 Ask me about **Python**, and **Web Development**.
+- 💬 Ask me about **Python**, **Machine Learning** and **Web Development**.
 - ⚡ Fun fact: I love  playing the guitar!
 
 ## 🛠️ Technologies & Tools
