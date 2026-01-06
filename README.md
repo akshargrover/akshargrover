@@ -10,9 +10,9 @@
 
 </div>
 
-
+<!--
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects, web development, and artificial intelligence. Here you'll find a collection of my projects, contributions, and some of my favorite technologies.
-
+--->
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Deep Learning** and **Data Science**.
