@@ -1,4 +1,15 @@
-# Hi there, I'm Akshar Grover! 👋
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tushar%20Kaushik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+Modern+Technologies;Open+Source+Contributor;Passionate+About+Clean+Code" alt="Typing SVG" />
+
+</div>
+
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects, web development, and artificial intelligence. Here you'll find a collection of my projects, contributions, and some of my favorite technologies.
 
